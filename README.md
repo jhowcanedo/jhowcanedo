@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Known to everyone as Jhow, my name is Jhonatan, a computer engineer in training! You can find me on any social network por **jhowcanedo**
+Known to everyone as Jhow, my name is Jhonatan, a computer engineer in training! You can find me on any social network by **jhowcanedo**
 <br/>Currently working as a Data Analyst at Mapa.SA - Socio-Environmental Consulting and Analysis.
 <br/>Studying python programming, Power BI and looking to learn more about web development.
 
